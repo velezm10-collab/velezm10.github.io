@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Technology in Psychology</title>
+</head>
+
+<body bgcolor="navy" text="white" link="lightblue" vlink="lightblue">
+
+<p>
+Michael Velez<br>
+CSIT 100<br>
+Webography Project<br>
+April 10, 2026
+</p>
+
+<hr>
+
+<h1 align="center"><i>Technology in Psychology</i></h1>
+
+<hr>
+
+<h3>Subtopics:</h3>
+
+<ol>
+    <li><a href="subtopic1.html">Artificial Intelligence in Psychology</a></li>
+    <li><a href="subtopic2.html">Digital Mental Health Applications</a></li>
+    <li><a href="subtopic3.html">Impact of Technology on Human Behavior</a></li>
+</ol>
+
+<hr>
+
+<p>
+<a href="paper.doc">Paper</a><br>
+<a href="presentation.ppt">Presentation</a>
+</p>
+
+</body>
+</html>
