@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Mental Health Applications</title>
+</head>
+
+<body bgcolor="lightcoral">
+
+<h1>Digital Mental Health Applications</h1>
+
+<table border="1">
+<tr>
+<td><b>URL</b></td>
+<td><a href="https://www.calm.com/">Calm</a></td>
+</tr>
+<tr>
+<td><b>Author</b></td>
+<td>Calm</td>
+</tr>
+<tr>
+<td><b>Abstract</b></td>
+<td>
+The Calm website provides tools designed to improve mental health through meditation and relaxation. It offers guided sessions, breathing exercises, and sleep support to help users manage stress and anxiety. The platform is easy to use and allows individuals to access mental health support anytime. It is especially useful for people who may not want in-person therapy. However, while Calm is helpful, it should be used as a support tool rather than a replacement for professional treatment.
+</td>
+</tr>
+</table>
+
+<br>
+
+<table border="1">
+<tr>
+<td><b>URL</b></td>
+<td><a href="https://www.headspace.com/">Headspace</a></td>
+</tr>
+<tr>
+<td><b>Author</b></td>
+<td>Headspace</td>
+</tr>
+<tr>
+<td><b>Abstract</b></td>
+<td>
+Headspace is a mental health app focused on meditation and mindfulness. It provides structured programs that help users reduce stress, improve focus, and manage anxiety. The app includes features like guided meditation, sleep support, and mood tracking. It makes mental health care more accessible by allowing users to practice these techniques anywhere. While it offers many benefits, it is still important to recognize that it does not replace professional therapy.
+</td>
+</tr>
+</table>
+
+</body>
+</html>
